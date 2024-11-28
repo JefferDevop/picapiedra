@@ -9,14 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "install": "^0.13.0",
-    "jwt-decode": "^3.1.2",
-    "next-boost": "^0.12.0",
-    "nextjs-progressbar": "^0.0.16",
-    "next-progressbar": "^1.0.0",
-    "react-dropzone": "^14.2.3",
-    "react-intl": "^6.4.4",
-    "react-player": "^2.13.0",
     "next-pwa": "^5.6.0",
     "@dotdev/next-boost": "^2.1.1",
     "@types/jwt-decode": "^3.1.0",
@@ -28,6 +20,7 @@
     "next": "14.2.3",
     "next-compose-plugins": "^2.2.1",
     "next-images": "^1.8.5",
+    "next-progressbar": "^1.0.0",
     "react": "^18",
     "react-dom": "^18",
     "react-dropzone-component": "^3.2.0",
